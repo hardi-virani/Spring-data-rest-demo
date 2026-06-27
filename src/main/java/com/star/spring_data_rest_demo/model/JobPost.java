@@ -14,7 +14,7 @@ import java.util.List;
 @AllArgsConstructor
 @Component
 @Entity
-public class JobPost_dataRest {
+public class JobPost {
 
     @Id
     private int postId;
